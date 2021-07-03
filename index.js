@@ -5,7 +5,7 @@ import Form from "./Form";
 const App = () => {
   return (
     <div className="ui segment">
-      <h1>Basic Curd Operations</h1>
+      <h1>Basic Crud Operations App</h1>
 
       <Form />
     </div>
